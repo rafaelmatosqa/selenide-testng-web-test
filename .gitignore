@@ -3,10 +3,9 @@
 .project
 .classpath
 
-.idea/
-.gradle/
-.allure/
-.vscode/
+.idea
+.allure
+
 
 bin/
 out/
